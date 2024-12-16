@@ -3,7 +3,7 @@ Sistem pendeteksi berbasis AI untuk mengklasifikasikan jensi sampah secara otoma
 
 
 ## Fitur 
-- [x] Klasifikasi sampah organik dan non-organik.
+- [x] Klasifikasi sampah organik, non-organik dan B3.
 - [x] Model machine learning terintegrasi.
 
 ## Instalasi 

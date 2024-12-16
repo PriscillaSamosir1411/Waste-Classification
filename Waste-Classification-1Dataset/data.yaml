@@ -1,0 +1,14 @@
+names:
+- B3
+- anorganik
+- organik
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: waste-classification-nufuz
+  url: https://universe.roboflow.com/wasteclassification-xhiqj/waste-classification-nufuz/dataset/1
+  version: 1
+  workspace: wasteclassification-xhiqj
+test: ../test/images
+train: ../train/images
+val: ../valid/images
